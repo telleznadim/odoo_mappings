@@ -1,0 +1,79 @@
+Document No.,Report Date,Journal,Account,Exp. Date,As of: 12/01/2022,1 - 30,31 - 60,61 - 90,91 - 120,Older,Total,Vendor Name,Amount
+PS-INV123238,10/31/2022,VB,Accounts Payable (A/P),,,,2696.0,,,,,2215 Highway 80 E LLC,2696.0
+270094006,11/30/2022,VB,Accounts Payable (A/P),,,2696.0,,,,,,2215 Highway 80 E LLC,2696.0
+S-INV112527,12/31/2022,VB,Accounts Payable (A/P),,2696.0,,,,,,,2215 Highway 80 E LLC,2696.0
+BNK3/2022/03/178,03/16/2022,BNK3,Accounts Payable (A/P),,,,,,,0.05,,Aadvantage Laundry Systems - Equipment,0.05
+BILL/2020/09/0045,09/17/2020,BILL,Accounts Payable (A/P),,,,,,,136.08,,"Aadvantage Laundry Systems, Inc. - Parts",136.08
+BILL/2020/09/0047,09/18/2020,BILL,Accounts Payable (A/P),,,,,,,395.0,,"Aadvantage Laundry Systems, Inc. - Parts",395.0
+BILL/2020/09/0050,09/22/2020,BILL,Accounts Payable (A/P),,,,,,,134.19,,"Aadvantage Laundry Systems, Inc. - Parts",134.19
+BILL/2020/09/0059,09/24/2020,BILL,Accounts Payable (A/P),,,,,,,314.55,,"Aadvantage Laundry Systems, Inc. - Parts",314.55
+BILL/2020/09/0058,09/24/2020,BILL,Accounts Payable (A/P),,,,,,,454.2,,"Aadvantage Laundry Systems, Inc. - Parts",454.2
+BILL/2020/09/0060,09/25/2020,BILL,Accounts Payable (A/P),,,,,,,254.58,,"Aadvantage Laundry Systems, Inc. - Parts",254.58
+BILL/2020/09/0067,09/29/2020,BILL,Accounts Payable (A/P),,,,,,,0.39,,"Aadvantage Laundry Systems, Inc. - Parts",0.39
+BILL/2020/09/0066,09/29/2020,BILL,Accounts Payable (A/P),,,,,,,316.35,,"Aadvantage Laundry Systems, Inc. - Parts",316.35
+BILL/2020/12/0001,12/01/2020,BILL,Accounts Payable (A/P),,,,,,,51.75,,"Aadvantage Laundry Systems, Inc. - Parts",51.75
+BNK3/2021/12/194,12/22/2021,BNK3,Accounts Payable (A/P),,,,,,,-835.8,,"Aadvantage Laundry Systems, Inc. - Parts",-835.8
+BNK3/2022/02/225,02/24/2022,BNK3,Accounts Payable (A/P),,,,,,,-247.25,,"Aadvantage Laundry Systems, Inc. - Parts",-247.25
+BOA/2022/07/0209,07/27/2022,BOA,Accounts Payable (A/P),,,,,,,-3253.53,,"Aadvantage Laundry Systems, Inc. - Parts",-3253.53
+BOA/2022/09/0095,09/21/2022,BOA,Accounts Payable (A/P),,,,,-93.3,,,,"Aadvantage Laundry Systems, Inc. - Parts",-93.3
+RVB/2021/02/0002,02/22/2021,VB,Accounts Payable (A/P),,,,,,,-324.36,,"American Changer, Rowe, Triad, & Hoffman Mint",-324.36
+BOA/2022/11/0222,11/30/2022,BOA,Accounts Payable (A/P),,,324.36,,,,,,"American Changer, Rowe, Triad, & Hoffman Mint",324.36
+BOA/2022/09/0114,09/21/2022,BOA,Accounts Payable (A/P),,,,,-4131.0,,,,B&C Technologies - equipment,-4131.0
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,4131.0,,,,,,B&C Technologies - equipment,4131.0
+BNK3/2021/10/129,10/19/2021,BNK3,Accounts Payable (A/P),,,,,,,-48.36,,B&C Technologies - parts,-48.36
+BOA/2022/11/0115,11/21/2022,BOA,Accounts Payable (A/P),,,-646.71,,,,,,C Spire,-646.71
+BOA/2022/11/0114,11/21/2022,BOA,Accounts Payable (A/P),,,-988.6,,,,,,C Spire,-988.6
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,646.71,,,,,,C Spire,646.71
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,988.6,,,,,,C Spire,988.6
+BOA/2022/06/0184,06/02/2022,BOA,Accounts Payable (A/P),,,,,,,-4800.0,,LS Acquisition,-4800.0
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,4800.0,,,,,,LS Acquisition,4800.0
+BOA/2022/10/0020,10/07/2022,BOA,Accounts Payable (A/P),,,,-5847.4,,,,,RJ Kool,-5847.4
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,5847.4,,,,,,RJ Kool,5847.4
+BOA/2022/10/0022,10/07/2022,BOA,Accounts Payable (A/P),,,,-1400.0,,,,,THE MARKETBURST GROUP,-1400.0
+JE/2022/11/0016,11/30/2022,JE,Accounts Payable (A/P),,,1400.0,,,,,,THE MARKETBURST GROUP,1400.0
+JE/2020/12/0009,12/31/2020,JE,Payroll Liabilities,,,,,,,189.43,,Unknown Partner,189.43
+BNK3/2020/12/0029,12/31/2020,BNK3,Payroll Liabilities,,,,,,,-189.43,,Unknown Partner,-189.43
+ADP/2021/01/0006,01/29/2021,ADP,Payroll Tax Payable - Federal 941,,,,,,,-647.26,,Unknown Partner,-647.26
+ADP/2021/01/0004,01/29/2021,ADP,Payroll Tax Payable - Federal 941,,,,,,,2001.31,,Unknown Partner,2001.31
+ADP/2021/01/0004,01/29/2021,ADP,Payroll Tax Payable - Federal 941,,,,,,,958.97,,Unknown Partner,958.97
+BNK3/2021/02/0001,02/01/2021,BNK3,Payroll Tax Payable - Federal 941,,,,,,,-2313.02,,Unknown Partner,-2313.02
+BNK3/2022/04/049,04/07/2022,BNK3,Payroll Clearing,,,,,,,-21170.79,,Unknown Partner,-21170.79
+BNK3/2022/04/048,04/07/2022,BNK3,Payroll Liabilities,,,,,,,-200.0,,Unknown Partner,-200.0
+BNK3/2022/04/047,04/07/2022,BNK3,Payroll Tax Payable - Federal 941,,,,,,,-3675.44,,Unknown Partner,-3675.44
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Liabilities,,,,,,,35.39,,Unknown Partner,35.39
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Liabilities,,,,,,,200.0,,Unknown Partner,200.0
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Clearing,,,,,,,21170.79,,Unknown Partner,21170.79
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,2495.24,,Unknown Partner,2495.24
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,1180.2,,Unknown Partner,1180.2
+ADP/2022/04/0002,04/08/2022,ADP,Payroll Liabilities,,,,,,,146.99,,Unknown Partner,146.99
+BNK3/2022/04/102,04/11/2022,BNK3,Payroll Liabilities,,,,,,,-182.38,,Unknown Partner,-182.38
+BNK3/2022/04/212,04/21/2022,BNK3,Payroll Clearing,,,,,,,-23291.33,,Unknown Partner,-23291.33
+BNK3/2022/04/211,04/21/2022,BNK3,Payroll Liabilities,,,,,,,-200.0,,Unknown Partner,-200.0
+BNK3/2022/04/210,04/21/2022,BNK3,Payroll Tax Payable - Federal 941,,,,,,,-3689.44,,Unknown Partner,-3689.44
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Liabilities,,,,,,,143.96,,Unknown Partner,143.96
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Liabilities,,,,,,,34.89,,Unknown Partner,34.89
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,1168.02,,Unknown Partner,1168.02
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Liabilities,,,,,,,200.0,,Unknown Partner,200.0
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Clearing,,,,,,,23291.33,,Unknown Partner,23291.33
+ADP/2022/04/0001,04/22/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,2521.42,,Unknown Partner,2521.42
+BNK3/2022/04/223,04/25/2022,BNK3,Payroll Liabilities,,,,,,,-178.85,,Unknown Partner,-178.85
+JE/2022/04/0024,04/30/2022,JE,Payroll Clearing,,,,,,,21142.27,,Unknown Partner,21142.27
+JE/2022/04/0024,04/30/2022,JE,Payroll Liabilities,,,,,,,36.18,,Unknown Partner,36.18
+JE/2022/04/0024,04/30/2022,JE,Payroll Liabilities,,,,,,,151.64,,Unknown Partner,151.64
+JE/2022/04/0024,04/30/2022,JE,Payroll Tax Payable - Federal 941,,,,,,,1149.14,,Unknown Partner,1149.14
+JE/2022/04/0024,04/30/2022,JE,Payroll Tax Payable - Federal 941,,,,,,,2466.53,,Unknown Partner,2466.53
+JE/2022/04/0024,04/30/2022,JE,Payroll Liabilities,,,,,,,200.0,,Unknown Partner,200.0
+BNK3/2022/05/052,05/05/2022,BNK3,Payroll Clearing,,,,,,,-21142.27,,Unknown Partner,-21142.27
+BNK3/2022/05/051,05/05/2022,BNK3,Payroll Liabilities,,,,,,,-200.0,,Unknown Partner,-200.0
+BNK3/2022/05/050,05/05/2022,BNK3,Payroll Tax Payable - Federal 941,,,,,,,-3615.67,,Unknown Partner,-3615.67
+BNK3/2022/05/055,05/09/2022,BNK3,Payroll Liabilities,,,,,,,-187.82,,Unknown Partner,-187.82
+ADP/2022/05/0002,05/31/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,-80.43,,Unknown Partner,-80.43
+ADP/2022/05/0002,05/31/2022,ADP,Payroll Tax Payable - Federal 941,,,,,,,-230.94,,Unknown Partner,-230.94
+JE/2022/06/0011,06/30/2022,JE,Accounts Payable (A/P),,,,,,,-59485.87,,Unknown Partner,-59485.87
+JE/2022/07/0003,07/01/2022,JE,Accounts Payable (A/P),,,,,,,59485.87,,Unknown Partner,59485.87
+ADP/2022/08/0007,08/31/2022,ADP,Accrued Purchases Payable,,,,,,593126.81,,,Unknown Partner,593126.81
+JE/2022/09/0014,09/30/2022,JE,Accrued Purchases Payable,,,,,-277981.42,,,,Unknown Partner,-277981.42
+JE/2022/10/0001,10/01/2022,JE,Accrued Purchases Payable,,,,,-8649.95,,,,Unknown Partner,-8649.95
+JE/2022/10/0001,10/01/2022,JE,Accrued Purchases Payable,,,,,-291293.79,,,,Unknown Partner,-291293.79
+JE/2022/10/0010,10/31/2022,JE,Accrued Purchases Payable,,,,217315.88,,,,,Unknown Partner,217315.88
+JE/2022/11/0006,11/30/2022,JE,Accrued Purchases Payable,,,-148973.87,,,,,,Unknown Partner,-148973.87

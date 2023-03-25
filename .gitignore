@@ -1,0 +1,11 @@
+*.log
+tmp/
+
+# Another example
+csvs/
+to_bc_outputs/
+validation_files/
+test/files/
+*.pdf
+
+.env

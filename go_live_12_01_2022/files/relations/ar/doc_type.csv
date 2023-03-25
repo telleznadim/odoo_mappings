@@ -1,0 +1,5 @@
+old_value,new_value
+Invoice,Invoice
+Journal Entry,Invoice
+Credit Note,Credit Memo
+not_found,not_found
